@@ -1,1 +1,1 @@
-# project-4
+for For Delivery 2, we use the code that the professor was provided and we change the farm name and the directory, then we adjust the maxiter and tolerance to get fast result to get fast result. as we run the code it take days the run a complete optimization and end up being failed by Iteration limit reached althought it was at standard maxiter = 1000.
